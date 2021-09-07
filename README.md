@@ -15,7 +15,7 @@ We went to Nasa's website *https://redplanetscience.com/* with information about
 #### Deliverable 1
 We scraped four high resolution pictures of Mars from  https://marshemispheres.com/ using Splinter and BeautifulSoup to automate the extraction of the data. The code is in *Mission_to_Mars_Challenge.ipynb* file. We extracted the title and image-url of four high resolution figures. We saved all the information in a list as shown in Fig 1.  
 
-<img src="Resources/Del_img_title.png">
+<img src="Resources/Del_Img_title.png">
 
 **Fig 1.** The figure shows the list of the dictionary items scraped from https://marshemispheres.com/
 
